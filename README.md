@@ -1,4 +1,5 @@
-# CS4775-final-proj
+# Profile HMM Alignment Engine
+
 
 ## Description
 
