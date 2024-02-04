@@ -1,4 +1,6 @@
 # Profile HMM Alignment Engine
+![image](https://github.com/alh322/Profile-HMM-Alignment-Engine/assets/117471005/5ac83493-1861-4aa1-9e75-ce29f2ba1431)
+
 
 
 ## Description
